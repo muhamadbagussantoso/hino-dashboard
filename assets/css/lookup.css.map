@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAO,CACN,SAAS,CAAE,IAAI",
+"sources": ["../sass/lookup.scss"],
+"names": [],
+"file": "lookup.css"
+}
